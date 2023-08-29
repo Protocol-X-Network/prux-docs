@@ -1,0 +1,22 @@
+.ItemTitle span{
+    font-size:16px!important;
+    font-weight:bold!important;
+}
+h1{
+    font-size:2rem!important;
+}
+h2{
+    font-size:1.5rem!important;
+    margin-top:30px!important;
+}
+h4{
+    font-size:1rem!important;
+}
+.nav{
+    background-color: #c27005fb;
+    color: #ffffff;
+}
+.sidebar{
+    background-color: #c27005fb;
+    color: #ffffff;
+}
